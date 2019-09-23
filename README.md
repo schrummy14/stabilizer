@@ -23,7 +23,7 @@ Stabilizer runs on OSX and Linux, and supports x86, x86_64, and PowerPC.
 Stabilizer requires LLVM 3.1. Follow the directions
 [here](http://clang.llvm.org/get_started.html) to build LLVM 3.1 and the Clang
 front-end. Stabilizer's build system assumes LLVM include files will be
-accessible through your default include path.
+accessible through your default include path. [Needs Editing: LLVM 3.1 is fairly old and the directions no longer work]
 
 By default, Stabilizer will use GCC and the 
 [Dragonegg](http://dragonegg.llvm.org/) plugin to produce LLVM IR. Fortran 
